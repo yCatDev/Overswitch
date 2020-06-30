@@ -1,0 +1,9 @@
+Y:\Overswitch\Overswitch\OverswitchConsoleTester\bin\Debug\OverswitchConsoleTester.exe
+Y:\Overswitch\Overswitch\OverswitchConsoleTester\bin\Debug\OverswitchConsoleTester.pdb
+Y:\Overswitch\Overswitch\OverswitchConsoleTester\bin\Debug\Overswitch.dll
+Y:\Overswitch\Overswitch\OverswitchConsoleTester\bin\Debug\Overswitch.pdb
+Y:\Overswitch\Overswitch\OverswitchConsoleTester\obj\Debug\OverswitchConsoleTester.csprojAssemblyReference.cache
+Y:\Overswitch\Overswitch\OverswitchConsoleTester\obj\Debug\OverswitchConsoleTester.csproj.CoreCompileInputs.cache
+Y:\Overswitch\Overswitch\OverswitchConsoleTester\obj\Debug\OverswitchConsoleTester.csproj.CopyComplete
+Y:\Overswitch\Overswitch\OverswitchConsoleTester\obj\Debug\OverswitchConsoleTester.exe
+Y:\Overswitch\Overswitch\OverswitchConsoleTester\obj\Debug\OverswitchConsoleTester.pdb

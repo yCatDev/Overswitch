@@ -1,0 +1,9 @@
+Y:\Overswitch\Overswitch\Overswitch\bin\Debug\Overswitch.dll
+Y:\Overswitch\Overswitch\Overswitch\bin\Debug\Overswitch.pdb
+Y:\Overswitch\Overswitch\Overswitch\obj\Debug\Overswitch.csprojAssemblyReference.cache
+Y:\Overswitch\Overswitch\Overswitch\obj\Debug\Overswitch.csproj.CoreCompileInputs.cache
+Y:\Overswitch\Overswitch\Overswitch\obj\Debug\Overswitch.dll
+Y:\Overswitch\Overswitch\Overswitch\obj\Debug\Overswitch.pdb
+Y:\Overswitch\Overswitch\Overswitch\bin\Debug\Microsoft.Win32.dll
+Y:\Overswitch\Overswitch\Overswitch\bin\Debug\Microsoft.Win32.xml
+Y:\Overswitch\Overswitch\Overswitch\obj\Debug\Overswitch.csproj.CopyComplete
